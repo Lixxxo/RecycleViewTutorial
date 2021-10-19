@@ -1,7 +1,7 @@
 # Soluciones Móviles 2021 II
 
 Scrollable list using RecycleView dependency 
-Movile Kotlin app following this [tutorial](https://developer.android.com/codelabs/basic-android-kotlin-training-affirmations-app#0)
+Mobile Kotlin app following this [tutorial](https://developer.android.com/codelabs/basic-android-kotlin-training-affirmations-app#0)
 
 ### Teacher 
 - Diego Urrutia
